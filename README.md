@@ -15,8 +15,9 @@ A Windows XP Era Inspired Tic-Tac-Toe Game. Implemented in Python using Tkinter,
 
 ## 👀 Look & Feel
 
-🪟 My first major priority was to copy the aesthetic and feel of the built-in applications that ran on Windows XP.
+🪟 My major priority in the development of this project was to copy the aesthetic and feel of the built-in applications that ran on Windows XP.
 * This meant gray buttons, recessed text, and pop-up windows for completions.
+  * The window size is locked at 500x500 pixels as well, since MineSweeper was unable to be resized. 
 * I also implemented a color picker for the player, using a 16-color limit with an open pallette on the screen.
   * This was inspired by early paint programs I would play with.
 
@@ -34,4 +35,4 @@ A Windows XP Era Inspired Tic-Tac-Toe Game. Implemented in Python using Tkinter,
 * This means the the AI attemps to minimize the loss via a **worst case scenario.**
 * Since Tic-Tac-Toe is a fairly simple game with only 9 possible moves, I have given the AI the data set of all 8 possible winning combinations.
 * It tries to choose moves based on boxes that it can link to win the game.
-  * If the AI is chosen to go first in a single-player game, it will choose a box randomly and try to build a win based on this box. 
+  * If the AI is chosen to go first in a single-player game, it will choose a box randomly and try to build a win based on combinations that include this box.
