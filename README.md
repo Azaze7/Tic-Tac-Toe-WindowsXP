@@ -32,7 +32,7 @@ A Windows XP Era Inspired Tic-Tac-Toe Game. Implemented in Python using Tkinter,
 * **Of course, you can simply run this on your mordern OS without issue!** [🙂]
 
 🤖 The AI for the game uses the **Minimax Algorithm.**
-* ![image](https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP/assets/97211914/6aaccc6a-1ec5-49e4-9e27-3e8a1f29653a)
+* Vi = maxai mina-i Vi (ai , a-i)
 * This means the the AI attemps to minimize the loss via a **worst case scenario.**
 * Since Tic-Tac-Toe is a fairly simple game with only 9 possible moves, I have given the AI the data set of all 8 possible winning combinations.
 * It tries to choose moves based on boxes that it can link to win the game.
