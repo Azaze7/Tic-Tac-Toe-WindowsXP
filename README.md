@@ -38,6 +38,7 @@ A Windows XP Era Inspired Tic-Tac-Toe Game. Implemented in Python using Tkinter,
 <p align="center">
 <img src="https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP/assets/97211914/d552f9aa-c134-46dd-85d8-913e784f9de4" width="250" height="50">
 </p>
+
 * If the AI is chosen to go first in a single-player game, it will choose a box randomly and try to build a win based on combinations that include this box.
 * Here is a link to more information about the minimax algorithm:
   * https://en.wikipedia.org/wiki/Minimax
