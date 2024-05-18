@@ -5,7 +5,7 @@ A Windows XP Era Inspired Tic-Tac-Toe Game. Implemented in Python using Tkinter,
 
 ## 📎 It looks like you're being nostalgic! Would you like help?
 
-🖥️ Windows XP was the exposure to a computer I ever got to experience.
+🖥️ Windows XP was the first exposure to a computer I ever got to experience.
 * At the young age of ***3***, I spent untold hours playing games on the computer at my grandma's house.
 * It was in these simple inbuilt games and internet explorer that I became interested in technology.
 
