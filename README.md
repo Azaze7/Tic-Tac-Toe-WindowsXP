@@ -34,7 +34,7 @@ A Windows XP Era Inspired Tic-Tac-Toe Game. Implemented in Python using Tkinter,
 🤖 The AI for the game uses the **Minimax Algorithm.**
 
 <p align="center">
-<img src="https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP/assets/97211914/d552f9aa-c134-46dd-85d8-913e784f9de4" width="200" height="50">
+<img src="https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP/assets/97211914/d552f9aa-c134-46dd-85d8-913e784f9de4" width="250" height="50">
 </p>
 
 * This means the the AI attemps to minimize the loss via a **worst case scenario.**
