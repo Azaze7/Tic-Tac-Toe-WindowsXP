@@ -26,13 +26,16 @@ A Windows XP Era Inspired Tic-Tac-Toe Game. Implemented in Python using Tkinter,
 🐍 This code was written in **Python.**
 * This did lead to some problems getting it to run on my Windows XP Virtual Machine.
 * This was simply due to the age of Windows XP, which stopped getting official support on April 8, 2014.
-* I ended up having to install a user generated Python interpreter to get it to run in Windows XP, found on this old reddit thread.
+* I ended up having to install a user generated Python interpreter to get it to run in Windows XP, found on this old reddit thread:
   * https://www.reddit.com/r/Python/comments/3tgi0t/python_35_x86_on_windows_xp/
   * You will need to download and install additional .dll files for full compatibility, so please be patient if you want to run it on XP.
 * **Of course, you can simply run this on your mordern OS without issue!** [🙂]
 
 🤖 The AI for the game uses the **Minimax Algorithm.**
+* ![image](https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP/assets/97211914/6aaccc6a-1ec5-49e4-9e27-3e8a1f29653a)
 * This means the the AI attemps to minimize the loss via a **worst case scenario.**
 * Since Tic-Tac-Toe is a fairly simple game with only 9 possible moves, I have given the AI the data set of all 8 possible winning combinations.
 * It tries to choose moves based on boxes that it can link to win the game.
   * If the AI is chosen to go first in a single-player game, it will choose a box randomly and try to build a win based on combinations that include this box.
+* Here is a link to more information about the minimax algorithm:
+  * https://en.wikipedia.org/wiki/Minimax
